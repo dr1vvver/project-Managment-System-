@@ -13,7 +13,7 @@ class App:
             self.root.iconbitmap("Наш декор.ico")
         except:
             pass
-        self.root.title("Наш декор - Учёт продукции")
+        self.root.title("Наш декор")
         self.root.geometry("1400x800")
         self.root.minsize(1000, 600)
         
